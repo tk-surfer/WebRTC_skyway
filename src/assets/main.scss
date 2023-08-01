@@ -1,0 +1,19 @@
+@chatset "utf-8";
+
+@import "bulma/bulma.sass";
+
+$primary: #0dcf58;
+
+#app {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 2rem;
+    font-weight: normal;
+  }
+
+#top {
+    margin-top: 10px;
+}
+
+
+
