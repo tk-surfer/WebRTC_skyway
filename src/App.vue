@@ -27,7 +27,6 @@ const api = () => {
   .catch((error) => console.log(error));
 };
 
-
 </script>
 
 <template>
