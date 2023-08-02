@@ -39,7 +39,7 @@ const api = () => {
               <nav>
                 <RouterLink to="/">
                   <figure class="image is-15x15">
-                    <img src="@/assets/img/TDCSOFT_logo_jpg背景白.jpg">
+                    <img src="@/assets/img/ミライを想像する(1).jpg">
                   </figure>
                 </RouterLink>
               </nav>
